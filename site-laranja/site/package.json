@@ -1,5 +1,5 @@
 {
-  "name": "site-laranja",
+  "name": "site",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,8 +9,6 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "primeicons": "^5.0.0",
-    "primevue": "^3.11.1",
     "vue": "^3.0.0"
   },
   "devDependencies": {

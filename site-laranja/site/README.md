@@ -1,4 +1,4 @@
-# site-laranja
+# site
 
 ## Project setup
 ```
